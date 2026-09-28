@@ -1,0 +1,6 @@
+{
+  "name": "Fanfar Farmácias | Sua farmácia em Frederico Westphalen",
+  "description": "Encontre medicamentos, cuidados pessoais, beleza, vitaminas e muito mais. Monte seu pedido online e envie diretamente pelo WhatsApp da Fanfar Farmácias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
